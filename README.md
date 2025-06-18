@@ -33,6 +33,12 @@ https://github.com/aidilmuz/ComfyUI.git
 ## FUTURISTIC
 1. BEH JIN MIN
 
+PROJECT RESPIRATORY
+https://github.com/FUTURISTIC-BJM/BJM_PROJECT.git
+
+VIDEO LINK (YOUTUBE)
+https://www.youtube.com/shorts/8t6z6_zqxtQ
+
 ## The Dream Team
 
 1. Raja
