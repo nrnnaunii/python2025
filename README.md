@@ -54,6 +54,10 @@ Team Members:
 
 1. Fattah
 2. Khirthiken
+   Repository link ;
+   https://github.com/DawlatiBaqiah/ComfyUI
+   Media/Project Link ;
+   https://www.youtube.com/shorts/Ve99L_3UE3w
 
 ## KPDBOYZ
 
