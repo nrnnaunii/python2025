@@ -40,8 +40,8 @@ Team Members:
 1. Auni
 2. Afiqah
 
-PROJECT REPOSITORY :
+Project Repository:
 https://github.com/nrnnaunii/python2025.git
 
-Video link : 
+Video Link : 
 https://vt.tiktok.com/ZSkGLqWYu/
