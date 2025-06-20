@@ -23,9 +23,13 @@ Once Upon a Code: Malaysian Legends Reimagined
 ## Team A1d1l
 1. Aidil
 
-Project Repository:
+Project Repository
 
 https://github.com/aidilmuz/ComfyUI.git
+
+Video Link
+
+https://www.youtube.com/shorts/OUctssfvL0U
 
 ## Team CYC
 1. Cho Yi Ching
