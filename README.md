@@ -23,9 +23,24 @@ Once Upon a Code: Malaysian Legends Reimagined
 ## Team A1d1l
 1. Aidil
 
-Project Repository:
+[Project Repository](https://github.com/aidilmuz/ComfyUI.git)
 
-https://github.com/aidilmuz/ComfyUI.git
+[Video Link](https://www.youtube.com/shorts/OUctssfvL0U)
+
+<details>
+ <summary>Generated Images</summary>
+
+- [Images 1](https://github.com/user-attachments/assets/d572d954-9c48-4d96-a57a-d08c89651cae)
+- [Images 2](https://github.com/user-attachments/assets/18fa21fa-bb7e-4f2d-918d-059d8e7bf3ff)
+- [Images 3](https://github.com/user-attachments/assets/4221f6d9-557f-4f8a-b204-8d934b87406a)
+- [Images 4](https://github.com/user-attachments/assets/26fc666e-c81b-4b6e-b83e-2d0054c0909b)
+- [Images 5](https://github.com/user-attachments/assets/97481e08-d219-4bb9-a2c5-5b143aaf8446)
+- [Images 6](https://github.com/user-attachments/assets/c212afb2-74dc-491f-bfd2-ccf9fa5cebf2)
+- [Images 7](https://github.com/user-attachments/assets/6ac3e285-d199-4ce2-b9fb-17c9e4dee6be)
+- [Images 8](https://github.com/user-attachments/assets/bac668e4-384c-42ff-98b9-d9127f15e76e)
+
+</details>
+
 
 ## Team CYC
 1. Cho Yi Ching
