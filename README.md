@@ -33,10 +33,12 @@ https://github.com/aidilmuz/ComfyUI.git
 ## FUTURISTIC
 1. BEH JIN MIN
 
-PROJECT RESPIRATORY
+Project Repository:
+
 https://github.com/FUTURISTIC-BJM/BJM_PROJECT.git
 
-VIDEO LINK (YOUTUBE)
+Video Link:
+
 https://www.youtube.com/shorts/8t6z6_zqxtQ
 
 ## The Dream Team
@@ -60,10 +62,14 @@ Team Members:
 
 1. Fattah
 2. Khirthiken
-   Repository link ;
-   https://github.com/DawlatiBaqiah/ComfyUI
-   Media/Project Link ;
-   https://www.youtube.com/shorts/Ve99L_3UE3w
+
+Project Repository:
+
+https://github.com/DawlatiBaqiah/ComfyUI
+
+Video Link:
+
+https://www.youtube.com/shorts/Ve99L_3UE3w
 
 ## KPDBOYZ
 
@@ -99,6 +105,7 @@ https://vt.tiktok.com/ZSkG2Pghu/
 2. Azwafi 
 
 ## PasirianBos
+
 1. Lutfi
 2. Afif
    OIl MAN(ORANG MINYAK)
@@ -130,6 +137,7 @@ Video Link:
 https://vt.tiktok.com/ZSkqGuHyc/
 
 ## Pie Team
+
 1. Sim Joshua
 2. Lim Jit Sin
 
@@ -137,16 +145,20 @@ Video Link :
 
 https://youtu.be/IqCHjFhZZNI
 
-## VOCASEP 
+## VOCASEP
+
 1. Ku Aliff
 2. Luqman Hakim
 
 ## NEXTGEN Coders
+
 1. Nasrullah
 2. Yaashnavasiin
 
 Project Repository:
+
 https://github.com/07MNasrullah/ComfyUI.git
 
 Video Link:
-https://youtube.com/shorts/5r9HhsZwd6s?si=xMIScT4462bsjDaS
+
+https://youtube.com/shorts/5r9HhsZwd6s
